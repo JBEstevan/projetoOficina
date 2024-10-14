@@ -1,2 +1,2 @@
-# projetoOficina
-Crud para gerenciamento de serviços de uma oficina mecânica em Node JS.
+# projetoLivraria
+Praticando autenticação de usuário, através de um projeto de livraria. 
